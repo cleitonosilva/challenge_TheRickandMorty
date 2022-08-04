@@ -1,5 +1,6 @@
 .container {
   padding: 0 2rem;
+  
 }
 
 .main {
@@ -127,3 +128,4 @@
     filter: invert(1);
   }
 }
+

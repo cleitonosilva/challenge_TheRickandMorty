@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="/src/assets/images/readme.png" alt="Rick and Morty" width="200">
+  <img src="public/assets/images/readme.png" alt="Rick and Morty" width="200">
 </h1>
 
 <p align="center">
@@ -8,9 +8,8 @@
 
 <br>
 
-[//]: # (Add your gifs/images here:)
 <p align="center">
-  <img src="/src/assets/gifs/rick-morty.gif" width="620">
+  <img src="public/assets/images/app.jpg" width="620">
 </p>
 
 ## O DESAFIO

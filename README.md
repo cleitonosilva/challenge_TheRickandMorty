@@ -49,7 +49,7 @@ $ cd challenge_TheRickandMorty
 $ yarn install
 
 # Execute a aplicação 
-$ yarn start
+$ yarn dev
 ```
 
 ---

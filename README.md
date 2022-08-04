@@ -15,6 +15,8 @@
 ## O DESAFIO
 Você precisa criar uma SPA que vai consumir a The Rick and Morty API. Escreva o código da melhor forma possível, utilizando React.Você pode consumir a api usando GraphQL ou REST, e também pode usar qualquer framework de CSS para acelerar o desenvolvimento, pois o resultado deve ser totalmente responsivo.
 
+Atualmente usamos Graphql e o tailwindcss, mas sinta-se livre para usar o que preferir.Este desafio consiste em uma listagem de personagens do Rick e Morty , exibindo os detalhes sobre cada personagem.
+
 
 ## API
 Na aplicação foi utilizada a API pública https://rickandmortyapi.com/documentation/#introduction para o consumo das requisições dos personagens
@@ -35,7 +37,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - **React JS** 
 - **Typescript** 
 - **Next Js** 
-- **Axios** 
+- **Axios**
+- **Tailwindcss** 
 
 ## 🤔 Como executar o projeto
 ```bash

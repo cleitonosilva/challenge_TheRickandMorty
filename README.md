@@ -44,7 +44,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 $ git clone https://github.com/cleitonosilva/challenge_TheRickandMorty.git
 
 # Acesse a pasta do projeto no seu terminal
-$ cd suflex-challenge
+$ cd challenge_TheRickandMorty
 
 # Instale as dependências
 $ yarn install

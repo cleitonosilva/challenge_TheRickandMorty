@@ -8,6 +8,10 @@
 
 <br>
 
+## ACESSE A APLICAÇÃO
+https://challengetherickandmortybycleiton.netlify.app/
+
+
 <p align="center">
   <img src="public/assets/images/app.jpg" width="620">
 </p>
